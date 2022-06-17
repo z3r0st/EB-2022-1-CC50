@@ -2,9 +2,9 @@
 # Objetivo del proyecto
 
 # Integrantes: 
-+ Roberto Carlos Basauri Quispe - 20181C074
-+ Rebeca Liliana Bravo Navarro - 201711448 (relibrana)
 + Ian Steve González Vidalón - 202021767 (z3r0st)
++ Rebeca Liliana Bravo Navarro - 201711448 (relibrana)
++ Roberto Carlos Basauri Quispe - 20181C074
 
 # Descripción del conjunto de datos
 
