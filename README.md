@@ -6,8 +6,9 @@
       + Inspeccionar el conjunto de datos para la identificación de datos faltantes, datos atípicos, datos no relacionados (decidir las técnicas de preprocesamiento),
       + De la inspección pre-procesar y limpiar el conjunto de datos,
       + Visualización del nuevo y limpio conjunto de datos.
-+ Brindar conocimiento útil en base a una serie de preguntas, en conjunto con sus respectivas visualizaciones para su fácil comprensión.
-+ Generar un modelo básico predictivo para concretar el desarrollo de un proyecto de analítica, buscando predecir el grado de satisfacción de la empresa en torno a un video que puedan publicar.
++ Al culminar el proyecto, el equipo brindará información útil en base a una serie de preguntas, en conjunto con sus respectivas visualizaciones para su fácil comprensión.
++ Al concluir el proyecto de datos, el equipo habrá desarrollado un modelo básico predictivo para concretar el desarrollo de un proyecto de analítica, buscando predecir el grado de satisfacción de la empresa en torno a un video que puedan publicar.
+
 
 # Integrantes: 
 + Ian Steve González Vidalón - 202021767 (z3r0st)
