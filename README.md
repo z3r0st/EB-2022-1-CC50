@@ -1,11 +1,11 @@
 # EB-2022-1-CC50
 # Objetivo del proyecto
 + Realizar un análisis exploratorio de los datos referente al dataset consignado al equipo de trabajo.
-++ Como parte del punto anterior se busca:
-+++ Cargar el conjunto de datos,
-+++ Inspeccionar el conjunto de datos para la identificación de datos faltantes, datos atípicos, datos no relacionados (decidir las técnicas de preprocesamiento),
-+++ De la inspección pre-procesar y limpiar el conjunto de datos,
-+++ Visualización del nuevo y limpio conjunto de datos.
++ + Como parte del punto anterior se busca:
++ + + Cargar el conjunto de datos,
++ + + Inspeccionar el conjunto de datos para la identificación de datos faltantes, datos atípicos, datos no relacionados (decidir las técnicas de preprocesamiento),
++ + + De la inspección pre-procesar y limpiar el conjunto de datos,
++ + + Visualización del nuevo y limpio conjunto de datos.
 + Brindar conocimiento útil en base a una serie de preguntas, en conjunto con sus respectivas visualizaciones para su fácil comprensión.
 + Generar un modelo básico predictivo para concretar el desarrollo de un proyecto de analítica, buscando predecir el grado de satisfacción de la empresa en torno a un video que puedan publicar.
 
