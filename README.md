@@ -16,6 +16,11 @@
 + Roberto Carlos Basauri Quispe - 20181C074
 
 # Descripción del conjunto de datos
+El conjunto de datos utilizado para el estudio contiene información relevante sobre los videos de Youtube que estuvieron en tendencias entre el 14 de noviembre de 2017 y el 14 de junio de 2018 en Canadá. El dataset almacena toda la información en el formato csv. Al leerlo como un DataFrame de la librería Pandas, se obtiene un total de 20 columnas y 40881 observaciones totales. Cada observación comprende la información referente a cada video que llegó a
+tendencias.
+
+Entre las principales piezas de información por video, se encuentra el título, la fecha en la que ingresó a tendencias, la cantidad de vistas, “me gusta”, “no me gusta”y la cantidad de comentarios. Estos últimos tres valores son especialmente importantes, ya que el algoritmo de Youtube que determina qué videos ingresan a tendencias toma como entrada la cantidad de interacciones, es decir, las vistas, “me gusta”, comentarios y veces que fue compartido.
+Por otra parte, se presentan atributos binarios que permiten obtener información relevante sobre el estado del video, por ejemplo si este fue removido o si los comentarios fueron desactivados. También se encuentra información geográfica, como las coordenadas y estado (de Canadá) del cliente desde el cual se subió el video.
 
 # Conclusiones
 + De este proyecto, el preprocesamiento del conjunto de datos fue clave para darle inicio al desarrollo de todos los puntos solicitados, de este paso dependía que los valores no sean ilógicos de procesar y sobre todo que se pueda extraer algún tipo de conocimiento válido de este.
@@ -26,3 +31,4 @@
 
 
 # Licencia de uso
+MIT license
