@@ -18,5 +18,11 @@
 # Descripción del conjunto de datos
 
 # Conclusiones
++ De este proyecto, el preprocesamiento del conjunto de datos fue clave para darle inicio al desarrollo de todos los puntos solicitados, de este paso dependía que los valores no sean ilógicos de procesar y sobre todo que se pueda extraer algún tipo de conocimiento válido de este.
++ Del conjunto de datos preprocesado, solo se requirió filtrar lo que la pregunta demandaba. Para tener un dataset uniforme para el equipo de trabajo.
++ En cuanto a la información recopilada por pregunta podemos concluir lo siguiente:
+   + Que un video sea concurrente de estar en tendencia, no quiere decir que sea el que mayor reacciones pueda tener, como se puede apreciar con el caso de ‘entertainment’ y ‘music’, que el primero es el que lidera por diferencia las cantidades de videos que posee que están en tendencia, mientras que el segundo, lidera como categoría que más reacciones positivas tiene en promedio por video. Y esto es lógico, un video que entretiene se reproducirá más veces sin necesidad de tener que estar logueado, dándole muchas vistas, compartidas y aumentando su tasa de popularidad del canal que crea contenido de ese estilo, mientras que un video musical o música, uno reacciona porque le gusta o porque lo quiere guardar en una lista personalizada (acción que se puede realizar en Youtube).
+   + Por otro lado, se puede concluir del análisis de ratios, que las películas son las que mejor visibilidad dan por la cantidad de comentarios, que se pueden traducir como críticas o ideas a nuevos aportes a la comunidad de películas, mientras que las categorías de música y comedia son las que mejor proporción tienes en cuanto a likes and dislikes, lo cual se puede constatar con el cálculo promedio de likes y dislikes del punto anterior. Esta última información se puede traducir que el público más disfruta un vídeo orientado a la comedia y a la música.
+
 
 # Licencia de uso
